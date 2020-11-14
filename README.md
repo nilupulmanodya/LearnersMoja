@@ -3,4 +3,4 @@
 
 Just simple game using Pygame
 # Description
-One of my friend started a Riding School (not a school, he just teached a girl) When I trying to develop simple game,I remeberd this. In this game rider must protect by jumping from the boxes, which drops from the lorry.
+One of my friend started a Riding School. When I trying to develop simple game,I remeberd this. In this game rider must protect by jumping from the boxes, which drops from the lorry.
